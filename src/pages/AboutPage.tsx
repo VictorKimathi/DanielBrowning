@@ -7,7 +7,7 @@ export const AboutPage = () => {
             About
           </h1>
           <div className="mb-12">
-            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" alt="Daniel Lee Browning" className="w-full h-[400px] object-cover object-center mb-8" />
+            <img src="/danielbrowning.jpg" alt="Daniel Lee Browning" className="w-full h-[400px] object-cover object-center mb-8" />
           </div>
           <div className="font-serif text-lg space-y-6">
           <p>
