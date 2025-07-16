@@ -21,40 +21,44 @@ export const AboutPage = () => {
             </p>
           </div>
           <div className="mt-12 pt-12 border-t border-gray-200">
-            <h2 className="text-2xl font-bold uppercase mb-6">Experience</h2>
-            <div className="space-y-8">
-              <div>
-                <h3 className="text-xl font-bold">Senior Tech Writer</h3>
-                <p className="text-gray-600 mb-2">
-                  TechInsights Magazine • 2019-Present
-                </p>
-                <p className="font-serif">
-                  Leading the editorial strategy for the publication's tech
-                  section, writing in-depth features and analysis.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold">Content Strategist</h3>
-                <p className="text-gray-600 mb-2">
-                  CloudScale Solutions • 2016-2019
-                </p>
-                <p className="font-serif">
-                  Developed and implemented content strategy for enterprise SaaS
-                  company, focusing on thought leadership.
-                </p>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold">Technology Journalist</h3>
-                <p className="text-gray-600 mb-2">
-                  Digital Frontier • 2013-2016
-                </p>
-                <p className="font-serif">
-                  Covered emerging technologies and startup ecosystems for
-                  leading online tech publication.
-                </p>
-              </div>
-            </div>
-          </div>
+  <h2 className="text-2xl font-bold uppercase mb-6">Experience</h2>
+  <div className="space-y-8">
+    <div>
+      <h3 className="text-xl font-bold">Technical Content Strategist</h3>
+      <p className="text-gray-600 mb-2">
+        Bytewise Software • Remote • 2020 – Present
+      </p>
+      <p className="font-serif">
+        Developed and maintained product guides, feature briefs, and onboarding documentation for a SaaS platform. 
+        Collaborated with developers and UX teams to simplify language, built scalable templates for release notes, 
+        and boosted engagement by 40% through structured how-to series and interactive support content.
+      </p>
+    </div>
+    <div>
+      <h3 className="text-xl font-bold">Freelance Tech Writer</h3>
+      <p className="text-gray-600 mb-2">
+        Self-Employed • Memphis, TN • 2016 – 2020
+      </p>
+      <p className="font-serif">
+        Created product comparisons, buyer’s guides, and tech explainers for outlets like TechRadar, MUO, and Digital Trends. 
+        Specialized in consumer electronics, app walkthroughs, and privacy tools, consistently meeting tight deadlines while 
+        enhancing content visibility through strong SEO practices.
+      </p>
+    </div>
+    <div>
+      <h3 className="text-xl font-bold">IT Support Specialist</h3>
+      <p className="text-gray-600 mb-2">
+        MidSouth Logistics • Memphis, TN • 2010 – 2016
+      </p>
+      <p className="font-serif">
+        Provided technical support across multiple departments, created internal documentation to streamline onboarding 
+        and help desk processes, and led tech literacy workshops for non-technical staff. 
+        Sparked an interest in tech writing by transforming outdated manuals into searchable digital formats.
+      </p>
+    </div>
+  </div>
+</div>
+
         </div>
       </div>
     </div>;
