@@ -10,34 +10,14 @@ export const AboutPage = () => {
             <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" alt="Daniel Lee Browning" className="w-full h-[400px] object-cover object-center mb-8" />
           </div>
           <div className="font-serif text-lg space-y-6">
-            <p>
-              I'm Daniel Lee Browning, a tech writer and editorial consultant
-              with over a decade of experience translating complex technical
-              concepts into compelling narratives.
+          <p>
+            I’m a tech writer with over 12 years of experience helping users navigate complex digital products. My journey began in IT support, where I learned firsthand the frustrations users face when technology isn’t clear. This sparked my passion for translating technical concepts into language that’s not just accurate—but genuinely helpful.
             </p>
             <p>
-              My journey began at the intersection of journalism and technology,
-              where I discovered my passion for making technical subjects
-              accessible and engaging. Since then, I've worked with startups,
-              enterprise companies, and leading publications to craft stories
-              that inform, persuade, and inspire.
+            Since then, I’ve written everything from product guides and API documentation to hardware reviews and software tutorials. Whether it’s building scalable knowledge bases for SaaS platforms or crafting SEO-driven tech explainers for sites like TechRadar and Digital Trends, I bring a blend of technical fluency and storytelling that keeps users engaged and informed.
             </p>
             <p>
-              I specialize in long-form tech features, thought leadership
-              articles, product deep dives, and editorial strategy. My work has
-              appeared in publications like Wired, TechCrunch, and The Verge, as
-              well as on the blogs and content hubs of numerous tech companies.
-            </p>
-            <p>
-              My approach combines journalistic rigor with a deep understanding
-              of technology and business. I believe that even the most complex
-              technical concepts can be explained clearly and engagingly when
-              approached with creativity and empathy for the reader.
-            </p>
-            <p>
-              When I'm not writing, you can find me exploring the latest tech
-              trends, attending industry conferences, or hiking in the mountains
-              near my home in Seattle.
+            Today, as a Certified Technical Writer and member of the American Society of Journalists and Authors, I continue to explore better ways to connect people with technology—one clear sentence at a time..
             </p>
           </div>
           <div className="mt-12 pt-12 border-t border-gray-200">
