@@ -14,9 +14,7 @@ export const Hero = () => {
               Tech Writer & Editorial Consultant
             </h1>
             <p className="text-lg md:text-xl font-serif mb-8 text-gray-700">
-              Crafting compelling narratives for tech startups and enterprise
-              SaaS. Specializing in long-form features, thought leadership, and
-              product storytelling.
+            Tech writer with over 12 years of experience translating complex topics into clear, user-focused content. Skilled in product documentation, software guides, SaaS content strategy, and hardware reviews. Background in IT support and journalism provides a unique blend of technical fluency and storytelling ability.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button href="/portfolio" variant="primary">

@@ -8,19 +8,13 @@ export const About = () => {
           </h2>
           <div className="font-serif text-lg space-y-6">
             <p>
-              I'm Daniel Lee Browning, a tech writer and editorial consultant
-              with over a decade of experience translating complex technical
-              concepts into compelling narratives.
+            I’m a tech writer with over 12 years of experience helping users navigate complex digital products. My journey began in IT support, where I learned firsthand the frustrations users face when technology isn’t clear. This sparked my passion for translating technical concepts into language that’s not just accurate—but genuinely helpful.
             </p>
             <p>
-              My work spans long-form features, thought leadership articles,
-              product deep dives, and editorial strategy for innovative tech
-              startups and established enterprise SaaS companies.
+            Since then, I’ve written everything from product guides and API documentation to hardware reviews and software tutorials. Whether it’s building scalable knowledge bases for SaaS platforms or crafting SEO-driven tech explainers for sites like TechRadar and Digital Trends, I bring a blend of technical fluency and storytelling that keeps users engaged and informed.
             </p>
             <p>
-              With a background in both journalism and technology, I bring a
-              unique perspective that bridges the gap between technical
-              expertise and engaging storytelling.
+            Today, as a Certified Technical Writer and member of the American Society of Journalists and Authors, I continue to explore better ways to connect people with technology—one clear sentence at a time..
             </p>
           </div>
           <div className="mt-10">
