@@ -91,34 +91,8 @@ export const ContactPage = () => {
                     <p>(206) 712-2884</p>
                   </div>
                 </div>
-                <div className="flex items-start">
-                  <Linkedin className="h-5 w-5 mr-3 mt-1" />
-                  <div>
-                    <h3 className="font-bold mb-1">LinkedIn</h3>
-                    <a
-                      href="https://linkedin.com"
-                      className="hover:text-[#446DFF] transition-colors"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      linkedin.com/in/yourprofile
-                    </a>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <Twitter className="h-5 w-5 mr-3 mt-1" />
-                  <div>
-                    <h3 className="font-bold mb-1">Twitter</h3>
-                    <a
-                      href="https://twitter.com"
-                      className="hover:text-[#446DFF] transition-colors"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      @yourhandle
-                    </a>
-                  </div>
-                </div>
+         
+          
                 <div className="flex items-start">
                   <MapPin className="h-5 w-5 mr-3 mt-1" />
                   <div>
