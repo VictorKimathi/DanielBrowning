@@ -3,40 +3,29 @@ import React from 'react';
 export const PortfolioPage = () => {
   const portfolioItems = [
     {
-      title: 'Technical Content Strategist at Bytewise Software',
-      category: 'SaaS Documentation',
-      client: 'Bytewise Software',
+      title: 'AI Haircare: Smart Styling Tools Are Revolutionizing Your Home Salon',
+      category: 'Home Tech & Personal Care',
+      date: 'November 12 2024',
       image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=1932&q=80',
-      description: 'Developed long-form product guides, onboarding docs, and scalable release note templates for a SaaS platform. Collaborated with developers and UX teams to simplify language, boosting engagement by 40% with structured how-to content.'
+      description: 'Personal grooming has long been a mix of science and style, but the latest generation of AI-powered hair tools is taking that relationship to a new level. No longer limited to salon appointments or manual trial and error, today’s smart styling devices promise professional-quality results right from your bathroom counter.',
+      href: 'AI_Haircare_Smart_Styling_Tools_Are_Revolutionizing_Your_Home_Salon.pdf'
     },
     {
-      title: 'Freelance Tech Writer',
-      category: 'Consumer Tech & SEO',
-      client: 'TechRadar, MUO, Digital Trends',
+      title: 'Foldables Showdown: Galaxy Z Fold 7 Vs. China’s Best  –  Who’s Really Winning?',
+      category: 'Mobile & Consumer Electronics',
+      date: 'January 23 2025',
       image: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
-      description: 'Wrote product comparisons, buyer’s guides, and tech explainers. Specialized in electronics, app walkthroughs, and privacy tools, consistently building strong SEO practices for higher visibility.'
+      description: 'Foldables aren’t new anymore – they’re evolving. As the Galaxy Z Fold 7 makes its debut with refined hardware and more productivity-focused features, a different kind of competition is heating up. Chinese manufacturers like Honor, Oppo and Xiaomi are no longer just catching up; in some cases, they’re outpacing Samsung in design, innovation and value.',
+      href: 'Foldables_Showdown_Galaxy_Z_Fold_7_Vs_China’s Best_Who’s_Really_Winning.pdf'
     },
     {
-      title: 'IT Support Specialist at MidSouth Logistics',
-      category: 'Technical Support & Docs',
-      client: 'MidSouth Logistics',
+      title: 'How Quantum Radar Might Upend Global Military Strategy',
+      category: 'Defense & Emerging Technology',
+      date: 'February 9 2025',
       image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=2034&q=80',
-      description: 'Provided tech support across departments, created internal documentation to streamline onboarding, led tech literacy workshops, and digitized manuals into searchable formats.'
+      description: 'Invisible aircraft may not stay invisible for long. A revolutionary sensor called quantum radar is pushing the boundaries of detection, and stealth warfare may never be the same. For decades, stealth technology has given militaries a powerful advantage. Aircraft, ships, and drones have operated deep within enemy territory with minimal risk of detection. From radar-absorbing coatings to heat-masking exhaust systems, entire doctrines have been built around the idea that what cannot be seen cannot be stopped.',
+      href: 'How_Quantum_Radar_Might_Upend_Global_Military_Strategy.pdf'
     },
-    {
-      title: 'B.A. in Communications',
-      category: 'Education',
-      client: 'Northeast State Community College',
-      image: 'https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
-      description: 'Graduated in 2006 with a strong foundation in clear communication, media writing, and audience engagement—skills that underpin my technical writing today.'
-    },
-    {
-      title: 'Certified Technical Writer',
-      category: 'Certifications & Memberships',
-      client: 'STC, ASJA',
-      image: 'https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80',
-      description: 'Certified by the Society for Technical Communication, member of the American Society of Journalists and Authors, and volunteer contributor to open source docs projects.'
-    }
   ];
 
   return (
