@@ -80,7 +80,7 @@ export const ContactPage = () => {
                       href="mailto:danielnair861@gmail.com"
                       className="hover:text-[#446DFF] transition-colors"
                     >
-                      danielnair861@gmail.com
+                      browningdaniel269@gmail.com
                     </a>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ export const ContactPage = () => {
                   <Phone className="h-5 w-5 mr-3 mt-1" />
                   <div>
                     <h3 className="font-bold mb-1">Phone</h3>
-                    <p>(206) 712-2884</p>
+                    <p>(206) 712-2784</p>
                   </div>
                 </div>
          
