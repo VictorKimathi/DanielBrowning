@@ -46,13 +46,13 @@ export const PortfolioPage = () => {
                 </div>
                 <div className="p-6">
                   <div className="text-sm uppercase tracking-wider text-gray-600 mb-2">
-                    {item.category} • {item.client}
+                    {item.category} 
                   </div>
                   <h3 className="text-xl font-bold mb-3">{item.title}</h3>
                   <p className="font-serif text-gray-700 mb-4">
                     {item.description}
                   </p>
-                  <a href="#" className="text-sm uppercase tracking-wider font-medium border-b border-black pb-1 hover:text-[#446DFF] hover:border-[#446DFF] transition-colors">
+                  <a href={item.href} className="text-sm uppercase tracking-wider font-medium border-b border-black pb-1 hover:text-[#446DFF] hover:border-[#446DFF] transition-colors">
                     View Details
                   </a>
                 </div>
