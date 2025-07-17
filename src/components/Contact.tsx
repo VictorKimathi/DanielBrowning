@@ -18,15 +18,15 @@ export const Contact = () => {
               <h3 className="text-xl font-bold mb-6">Contact Information</h3>
               <div className="space-y-4 font-serif">
                 <a
-                  href="mailto:danielnair861@gmail.com"
+                  href="mailto:browningdaniel269@gmail.com"
                   className="flex items-center hover:text-[#446DFF] transition-colors"
                 >
                   <Mail className="h-5 w-5 mr-3" />
-                  danielnair861@gmail.com
+                  browningdaniel269@gmail.com
                 </a>
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 mr-3" />
-                  <span>(206) 712-2884</span>
+                  <span>(206) 712-2784</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-5 w-5 mr-3" />
