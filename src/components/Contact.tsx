@@ -32,24 +32,7 @@ export const Contact = () => {
                   <MapPin className="h-5 w-5 mr-3" />
                   <span>Memphis, TN 38118</span>
                 </div>
-                <a
-                  href="https://linkedin.com"
-                  className="flex items-center hover:text-[#446DFF] transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Linkedin className="h-5 w-5 mr-3" />
-                  linkedin.com/in/yourprofile
-                </a>
-                <a
-                  href="https://twitter.com"
-                  className="flex items-center hover:text-[#446DFF] transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Twitter className="h-5 w-5 mr-3" />
-                  @yourhandle
-                </a>
+               
               </div>
             </div>
       

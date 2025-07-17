@@ -20,17 +20,7 @@ export const Footer = () => {
           <div className="text-sm text-gray-400 mb-4 md:mb-0">
             © {currentYear} Daniel Lee Browning. All rights reserved.
           </div>
-          <div className="flex space-x-6">
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors" aria-label="LinkedIn">
-              LinkedIn
-            </a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors" aria-label="Twitter">
-              Twitter
-            </a>
-            <a href="mailto:daniel@danielbrowning.com" className="text-gray-400 hover:text-white transition-colors" aria-label="Email">
-              Email
-            </a>
-          </div>
+          
         </div>
       </div>
     </footer>;
