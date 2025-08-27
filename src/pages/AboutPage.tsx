@@ -42,30 +42,23 @@ export const AboutPage = () => {
             <div className="space-y-8">
               <div>
                 <h3 className="text-xl font-bold">Technical Content Strategist</h3>
-                <p className="text-gray-600 mb-2">Bytewise Software • Remote • 2020 – Present</p>
+                <p className="text-gray-600 mb-2"> Apex Digital Solutions • Remote • 2020 – Present</p>
                 <p className="font-serif">
-                  Developed and maintained product guides, feature briefs, and onboarding documentation for a SaaS
-                  platform. Collaborated with developers and UX teams to simplify language, built scalable templates for
-                  release notes, and boosted engagement by 40% through structured how-to series and interactive support
-                  content.
+                   Write and optimize SEO-driven blog posts, white papers, and landing pages across B2B and SaaS industries,Adapt brand tone and style guides to meet diverse client requirements in technology and education sectors,Collaborate with developers, designers, and project managers to ensure content accuracy and effectiveness, Increased organic search traffic by 45% through strategic keyword integration and metadata optimization.
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-bold">Freelance Tech Writer</h3>
-                <p className="text-gray-600 mb-2">Self-Employed • Memphis, TN • 2016 – 2020</p>
+                <p className="text-gray-600 mb-2"> Independent  • Memphis, TN • 2016 – 2020</p>
                 <p className="font-serif">
-                  Created product comparisons, buyer’s guides, and tech explainers for outlets like TechRadar, MUO, and
-                  Digital Trends. Specialized in consumer electronics, app walkthroughs, and privacy tools, consistently
-                  meeting tight deadlines while enhancing content visibility through strong SEO practices.
+                   Produced 800–1000 word SEO blog posts, product guides, and email campaigns for small and mid-sized businesses., Specialized in B2B, technology, and e-commerce writing, tailoring content for varying industries., Consistently met tight deadlines while incorporating editorial feedback to improve clarity and structure., Built lasting client relationships through professionalism, adaptability, and content quality.
                 </p>
               </div>
               <div>
                 <h3 className="text-xl font-bold">IT Support Specialist</h3>
-                <p className="text-gray-600 mb-2">MidSouth Logistics • Memphis, TN • 2010 – 2016</p>
+                <p className="text-gray-600 mb-2"> Delta Regional Logistics  • Memphis, TN • 2010 – 2016</p>
                 <p className="font-serif">
-                  Provided technical support across multiple departments, created internal documentation to streamline
-                  onboarding and help desk processes, and led tech literacy workshops for non-technical staff. Sparked
-                  an interest in tech writing by transforming outdated manuals into searchable digital formats.
+                  Created internal training manuals and step-by-step guides that simplified technical onboarding., Documented IT processes and troubleshooting workflows for efficiency and accuracy. ,Delivered staff workshops to improve digital literacy, fostering smoother workflows and fewer support tickets.
                 </p>
               </div>
             </div>
